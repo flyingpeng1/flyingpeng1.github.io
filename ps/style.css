@@ -1,0 +1,15 @@
+# Copyright 2021, Jack T Wilcom, All rights reserved.
+
+
+body {
+  background-color: white;
+  color: black;
+  background-repeat: repeat;
+}
+
+.center {
+	display: block;
+	margin: auto;
+	text-align: center;
+	padding-top: 15px;
+}
