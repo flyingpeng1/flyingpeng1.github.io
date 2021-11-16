@@ -1,0 +1,25 @@
+body {
+ margin:0; 
+ font:normal 75% 'Courier New', monospace;
+ color: white;
+ background-color: black;
+}
+
+#screen {
+	overflow-y: hidden;
+ 	overflow-x: hidden;
+ 	position: fixed;
+ 	top: 0px;
+ 	right: 0px;
+    z-index: -100;
+} 
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+a {
+	color: white;
+}
